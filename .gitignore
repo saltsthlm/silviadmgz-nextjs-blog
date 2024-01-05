@@ -480,3 +480,4 @@ node_modules/
 .next/
 .swc/
 .*.env
+.idea
